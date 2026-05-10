@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\Projects\\code\\IsLabApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF48916-FC58-4519-916D-87266E332B1C}|IsLabApp.csproj|p:\\projects\\code\\islabapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF48916-FC58-4519-916D-87266E332B1C}|IsLabApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF48916-FC58-4519-916D-87266E332B1C}|IsLabApp.csproj|p:\\projects\\code\\islabapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8DF48916-FC58-4519-916D-87266E332B1C}|IsLabApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF48916-FC58-4519-916D-87266E332B1C}|IsLabApp.csproj|p:\\projects\\code\\islabapp\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF48916-FC58-4519-916D-87266E332B1C}|IsLabApp.csproj|solutionrelative:controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF48916-FC58-4519-916D-87266E332B1C}|IsLabApp.csproj|p:\\projects\\code\\islabapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF48916-FC58-4519-916D-87266E332B1C}|IsLabApp.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF48916-FC58-4519-916D-87266E332B1C}|IsLabApp.csproj|p:\\projects\\code\\islabapp\\models\\notesstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF48916-FC58-4519-916D-87266E332B1C}|IsLabApp.csproj|solutionrelative:models\\notesstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF48916-FC58-4519-916D-87266E332B1C}|IsLabApp.csproj|p:\\projects\\code\\islabapp\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF48916-FC58-4519-916D-87266E332B1C}|IsLabApp.csproj|solutionrelative:models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF48916-FC58-4519-916D-87266E332B1C}|IsLabApp.csproj|p:\\projects\\code\\islabapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF48916-FC58-4519-916D-87266E332B1C}|IsLabApp.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "P:\\Projects\\code\\IsLabApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "P:\\Projects\\code\\IsLabApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T13:03:13.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "P:\\Projects\\code\\IsLabApp\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotesController.cs",
+              "ToolTip": "P:\\Projects\\code\\IsLabApp\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "Controllers\\NotesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T12:57:12.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotesStore.cs",
+              "DocumentMoniker": "P:\\Projects\\code\\IsLabApp\\Models\\NotesStore.cs",
+              "RelativeDocumentMoniker": "Models\\NotesStore.cs",
+              "ToolTip": "P:\\Projects\\code\\IsLabApp\\Models\\NotesStore.cs",
+              "RelativeToolTip": "Models\\NotesStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T12:56:08.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Note.cs",
+              "DocumentMoniker": "P:\\Projects\\code\\IsLabApp\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "Models\\Note.cs",
+              "ToolTip": "P:\\Projects\\code\\IsLabApp\\Models\\Note.cs",
+              "RelativeToolTip": "Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T12:55:33.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "P:\\Projects\\code\\IsLabApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "P:\\Projects\\code\\IsLabApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-10T12:40:00.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "P:\\Projects\\code\\IsLabApp\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "P:\\Projects\\code\\IsLabApp\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T12:39:54.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "P:\\Projects\\code\\IsLabApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "P:\\Projects\\code\\IsLabApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T12:39:34.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
